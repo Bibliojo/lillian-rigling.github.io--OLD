@@ -26,42 +26,47 @@ Outstanding Student Contribution Award, *Faculty of Information Alumni Associati
 `2016`
  Staff Team Appreciation and Recognition Award, Ongoing Excellence (TSpace Team), *University of Toronto Libraries*
 
-## Select Publications
-### Journals
-  - “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [in press]
-  - "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic
-Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L.. *Journal of Scholarly
-Publishing* [in press]
-### Books
-  - “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press  [Forthcoming, 2018]
-  - “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries [Forthcoming, 2018]
-### Other
-  - ["Meeting the Commons"](https://creativecommons.org/2017/05/18/meeting-the-commons/) Rigling, L. (2017). *Creative Commons Blog* [invited blog post].
-  - [“Digital Scholarship, Networked Scholarship, and Other Side Effects of Open”](http://blogs.openbookpublishers.com/538-2/) - Rigling, L. (2016). *Open
-Book Publishers Blog* [invited blog post].
+## Publications
 
-## Select Presentations
-  - **Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice** (elective course) Cross, W., Waller, M., & Rigling, L. - *Force11 Scholarly Communications Institute*, July-August 2017
-  - **Applying Design Thinking and User Research to the Scholarly Communication Problem Space** (elective course) - Grguric, E., Rigling, L., & Cross, W. - *Force11 Scholarly Communications Institute*, July-August 2017
-  - **Mapping the Copyright Constellation: Charting Campus Partners to Create Copyright Instruction Your   
-Students Will Care About** - Cross, W., Keener, M. & Rigling, L. - *Kraemer Copyright Conference*, June 2017
-  - **Reclaiming STEM Spaces: Why Haven't Libraries and University Presses Worked Together to Form Viable   
-Alternatives to Commercial Publishing?** (Panelist), *Society for Scholarly Publishing 39th   
-Annual Meeting*, June 2017
-  - **Refocusing the Instruction Support Page on the Instructors** Rigling, L. & Orphanides, A. *NC-LITE 2017 Spring Meeting*, May 2017
-  - **[Open Education on Student Time: Library Instruction that Empowers Student Understanding and   
-Advocacy](https://www.google.com/url?q=http://www.cclibinstruction.org/wp-content/uploads/2017/05/CCLI-Presentation-Open-Education-on-Student-Time.pdf&sa=D&ust=1498506478074000&usg=AFQjCNG4f5eQ1M3m85CoOhjwbGO4AhOTzw)** Rigling, L., Cross, W., Grguric, E., & Sullivan, M. – *California Conference on Library Instruction*, May 2017
-  - **NextGen Open: Planting Seeds to Cultivate Open Advocates, Scholars, and Creators** (workshop). Rigling, L., & Di Monte, L. *Creative Commons Global Summit*, April 2017
-  - **[Let Your Conscience Be Your Guide: Taming Online Research Guides at the NCSU Libraries](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/let-your-conscience-be-your-guide-taming-online-research-guides-at-the-ncsu-librariess&sa=D&ust=1498506478077000&usg=AFQjCNGSfc6ynUJz-JJ4lgzd-7hqsrVMEg)** Rigling, L., & Orphanides, A. *Human-Centered Libraries: Crafting Value and Relevance (LAUNC-CH 2017)*, March 2017
-  - **Understanding Student Behavior to Support Student Success: Two Empirical Lenses for an Impactful   
-Open Education Program** Cross, W., Rigling, L., & Grguric, E., *Empirical Librarians Conference*, February 2017        
-  - **[What Can I Do with That Code?: Understanding Open Source Licenses in the Wild](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/what-can-i-do-with-that-code-understanding-open-source-licenses&sa=D&ust=1498506478080000&usg=AFQjCNHxFXCPDfNY4WtQ4XZJNbM3CYmf3w)[ ](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/what-can-i-do-with-that-code-understanding-open-source-licenses&sa=D&ust=1498506478081000&usg=AFQjCNFwtwq-c8SY_4jUk8zQkLtho9Lffw)** Rigling, L., Khan, N.,   
-& Cross, W. *OpenSource101 (All Things Open)*, February 2017
-  - **[Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education](https://www.google.com/url?q=http://www.slideshare.net/RightToResearch/data-relationships-using-institutional-knowledge-and-student-voices-to-advocate-for-open-education-lillian-rigling-opencon-2016&sa=D&ust=1498506478084000&usg=AFQjCNEmGmbauz-bjgy-NLWOTlyTc-OstA)**   
-(lightning talk) Rigling, L. *OpenCon*, November 2016
-  - **[Library Usage as a Map for Targeting OER Advocacy & Growth](https://www.google.com/url?q=http://www.slideshare.net/GregRaschke/library-usage-as-a-map-for-targeting-open-educational-resource-advocacy&sa=D&ust=1498506478086000&usg=AFQjCNEilQH8TCViejzMDJSfqFKrR2QoPg)** Raschke, G., Cross, W., Thompson, S.,   
-Vickery, J., & Rigling, L., *The 13th Annual Open Education Conference*, November 2016
-  - **[Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual   
+### Journals
+`in press` “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services*
+
+`in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic
+Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L.. *Journal of Scholarly
+Publishing* 
+
+### Books
+`forthcoming, 2018` “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press
+
+ `forthcoming, 2018` “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries 
+
+## Presentations
+`2017` **Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice** (elective course) Cross, W., Waller, M., & Rigling, L. - *Force11 Scholarly Communications Institute*
+
+`2017`  **Applying Design Thinking and User Research to the Scholarly Communication Problem Space** (elective course) - Grguric, E., Rigling, L., & Cross, W. - *Force11 Scholarly Communications Institute*
+
+ `2017` **Mapping the Copyright Constellation: Charting Campus Partners to Create Copyright Instruction Your Students Will Care About** - Cross, W., Keener, M. & Rigling, L. - *Kraemer Copyright Conference*
+
+`2017` **Reclaiming STEM Spaces: Why Haven't Libraries and University Presses Worked Together to Form Viable Alternatives to Commercial Publishing?** (Panelist), *Society for Scholarly Publishing 39th Annual Meeting*
+
+`2017` **Refocusing the Instruction Support Page on the Instructors** Rigling, L. & Orphanides, A. *NC-LITE 2017 Spring Meeting*
+
+`2017` **[Open Education on Student Time: Library Instruction that Empowers Student Understanding and Advocacy](https://www.google.com/url?q=http://www.cclibinstruction.org/wp-content/uploads/2017/05/CCLI-Presentation-Open-Education-on-Student-Time.pdf&sa=D&ust=1498506478074000&usg=AFQjCNG4f5eQ1M3m85CoOhjwbGO4AhOTzw)** Rigling, L., Cross, W., Grguric, E., & Sullivan, M. – *California Conference on Library Instruction*,
+ 
+`2017` **NextGen Open: Planting Seeds to Cultivate Open Advocates, Scholars, and Creators** (workshop). Rigling, L., & Di Monte, L. *Creative Commons Global Summit*
+
+`2017` **[Let Your Conscience Be Your Guide: Taming Online Research Guides at the NCSU Libraries](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/let-your-conscience-be-your-guide-taming-online-research-guides-at-the-ncsu-librariess&sa=D&ust=1498506478077000&usg=AFQjCNGSfc6ynUJz-JJ4lgzd-7hqsrVMEg)** Rigling, L., & Orphanides, A. *Human-Centered Libraries: Crafting Value and Relevance (LAUNC-CH 2017)*
+
+`2017` **Understanding Student Behavior to Support Student Success: Two Empirical Lenses for an Impactful Open Education Program** Cross, W., Rigling, L., & Grguric, E., *Empirical Librarians Conference*      
+
+`2017` **[What Can I Do with That Code?: Understanding Open Source Licenses in the Wild](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/what-can-i-do-with-that-code-understanding-open-source-licenses&sa=D&ust=1498506478080000&usg=AFQjCNHxFXCPDfNY4WtQ4XZJNbM3CYmf3w)[ ](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/what-can-i-do-with-that-code-understanding-open-source-licenses&sa=D&ust=1498506478081000&usg=AFQjCNFwtwq-c8SY_4jUk8zQkLtho9Lffw)** Rigling, L., Khan, N., & Cross, W. *OpenSource101 (All Things Open)*
+
+`2016` **[Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education](https://www.google.com/url?q=http://www.slideshare.net/RightToResearch/data-relationships-using-institutional-knowledge-and-student-voices-to-advocate-for-open-education-lillian-rigling-opencon-2016&sa=D&ust=1498506478084000&usg=AFQjCNEmGmbauz-bjgy-NLWOTlyTc-OstA)**   
+(lightning talk) Rigling, L. *OpenCon*
+
+`2016` **[Library Usage as a Map for Targeting OER Advocacy & Growth](https://www.google.com/url?q=http://www.slideshare.net/GregRaschke/library-usage-as-a-map-for-targeting-open-educational-resource-advocacy&sa=D&ust=1498506478086000&usg=AFQjCNEilQH8TCViejzMDJSfqFKrR2QoPg)** Raschke, G., Cross, W., Thompson, S., Vickery, J., & Rigling, L., *The 13th Annual Open Education Conference*
+
+`2016` **[Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual   
 Pornography](https://www.google.com/url?q=http://ipp.oii.ox.ac.uk/2016/programme-2016/track-b-governance/user-behaviour-ii/lillian-rigling-amelia-clarkson-behind&sa=D&ust=1498506478088000&usg=AFQjCNG-JPyb-lc-MlPKmQsc8j9PYI896Q)**  Rigling, L., & Clarkson, A. *Oxford Internet Institute's Internet, Policy, & Politics Conference*, September 2016
 
 ## Occupation
