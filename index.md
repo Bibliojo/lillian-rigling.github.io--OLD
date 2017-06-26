@@ -3,12 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Libraries. Open Culture. User Experience.
+
+I'm Lillian Rigling. I'm a librarian who is passionate about advancing open research practices at universities. I spend my day-to-day doing outreach for students, faculty, and staff, discussing how open ethos can enhance research practices, and how it affects scholarship at every level. I also try to incorporate scholarly communications concepts into library instruction for students of every level, and make these concepts tangible and accessible.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Using design thinking and user research for service and space design
+- Open education advocacy at the student level
+- Early-career scholarship and academic activity
+- Open pedagogy and open educational practice.
