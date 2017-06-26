@@ -30,18 +30,18 @@ Outstanding Student Contribution Award, *Faculty of Information Alumni Associati
 
 ## Select Publications\
 ### Journals\
-- “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [in press]\
-- The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic
+  - “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [in press]\
+  - The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic
 Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L.. *Journal of Scholarly
 Publishing* [in press]\
 
 ### Books\
-- “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press  [Forthcoming, 2018]\
-- “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries [Forthcoming, 2018]
+  - “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press  [Forthcoming, 2018]\
+  - “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries [Forthcoming, 2018]
 
 ### Other\
-- ["Meeting the Commons"](https://creativecommons.org/2017/05/18/meeting-the-commons/) Rigling, L. (2017). *Creative Commons Blog* [invited blog post].\
-- [“Digital Scholarship, Networked Scholarship, and Other Side Effects of Open”](http://blogs.openbookpublishers.com/538-2/) - Rigling, L. (2016). *Open
+  - ["Meeting the Commons"](https://creativecommons.org/2017/05/18/meeting-the-commons/) Rigling, L. (2017). *Creative Commons Blog* [invited blog post].\
+  - [“Digital Scholarship, Networked Scholarship, and Other Side Effects of Open”](http://blogs.openbookpublishers.com/538-2/) - Rigling, L. (2016). *Open
 Book Publishers Blog* [invited blog post].\
 
 ## Select Presentations
