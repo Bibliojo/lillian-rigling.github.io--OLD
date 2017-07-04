@@ -11,20 +11,22 @@ category: presentation
 
 # Advocacy Hour
 
-
 </section>
 
 <section data-markdown>
+
 ## Why advocacy?
 
 </section>
 
 <section data-markdown>
+
 ## There's **power** in stories
 
 </section>
 
 <section data-markdown>
+
 ### Challenge
 
 Why did you feel it was a challenge? What was so challenging about it? Why was it your challenge?
@@ -32,6 +34,7 @@ Why did you feel it was a challenge? What was so challenging about it? Why was i
 </section>
 
 <section data-markdown>
+
 ### Choice
 
 Why did you make the choice you did? Where did you get the courage – or not? Where did you get the hope – or not? How did it feel?
@@ -39,6 +42,7 @@ Why did you make the choice you did? Where did you get the courage – or not? W
 </section>
 
 <section data-markdown>
+
 ### Outcome
 
 How did the outcome feel? Why did it feel that way? What did it teach you? What do you want to teach us? How do you want us to feel?
