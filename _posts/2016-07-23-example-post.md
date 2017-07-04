@@ -1,20 +1,19 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+title: Meeting the Commons
+excerpt: "I came to Creative Commons looking for an in, but the door was always open."
+modified: 5/28/2017, 9:00:24
+tags: [CC Summit, Creative Commons, Toronto]
 comments: true
 category: blog
 ---
+## Meeting the Commons
+As a Copyright and Digital Scholarship librarian, I spend a lot of time talking to people about the rights they have to the things they create, and as an active member of the open community, I often find myself encouraging others to apply Creative Commons licenses to their work. For these reasons, I was thrilled to have the opportunity to attend and speak at the Creative Commons Global Summit in Toronto. I was looking forward to meeting a community of individuals committed to openness connected through a tool that facilitates openness in scholarship and art,but I also was new to the idea of the commons, and I was drawn to the summit partially through a deep curiosity. What – or who – made up the commons? How did they work? And how could I make my way into the heart of the open movement?
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
 
-## What is a static website generator?
-A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
+But I was also wary of this environment – a microcosm of open superheroes that could easily turn into a Batman vs. Superman situation. When you have devoted your career to advocating for a cause, it can be inspiring to see how others achieve similar goals. But it can also be difficult to be open to ways others achieve those goals, especially when they conflict with your own modus operandi. On the other hand, these events can create a self-congratulatory echo-chamber, where people are unable to engage in a meaningful and critical discourse that helps to generate meaningful, future-oriented action. At events that gather smart, hard-working, and dedicated advocates, striking this balance can be tenuous.
 
-## Why should I use a static website?
-A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
+The Creative Commons Global Summit has set a gold standard for this balance. From the moment a smiling volunteer handed me a name-tag, I felt warm, welcome, and safe in this space. Even before the opening remarks, I met and connected with brilliant people both within the Western library world that I was familiar with, but also people from outside of libraries and academia, and people from all over the globe. So rarely can an organization succeed at creating an aura of effortless inclusivity. From the Women of the Commons colouring book under every chair, to the unveiling of New Palmyra, every action taken by the organizers was brushed with these undertones. It was unspoken but evident in each action.
 
-## How is this template different?
-This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
+
+This commitment to inclusivity made Ashe Dryden’s keynote all the more powerful. She began with primer on time travel –light and accessible – then she dug a little deeper. As she spoke about the importance of bringing in new voices to open, about giving people an opportunity to express themselves and to shape this space, she not only empowered every person in attendance who did not feel they had a voice in the community to speak, but the also mandated those with a voice to take a breath, step back, and listen. Her talk enabled us all to be individuals, and allowed us to feel like *we are the commons*. I came to Creative Commons looking for an in, but the door was always open.
