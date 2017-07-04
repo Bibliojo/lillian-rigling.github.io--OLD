@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 ## Meeting the Commons
-*(Originally Published on the Creative Commons Blog)[https://creativecommons.org/2017/05/18/meeting-the-commons/]*
+* (Originally Published on the Creative Commons Blog)[https://creativecommons.org/2017/05/18/meeting-the-commons/] *
 
 As a Copyright and Digital Scholarship librarian, I spend a lot of time talking to people about the rights they have to the things they create, and as an active member of the open community, I often find myself encouraging others to apply Creative Commons licenses to their work. For these reasons, I was thrilled to have the opportunity to attend and speak at the Creative Commons Global Summit in Toronto. I was looking forward to meeting a community of individuals committed to openness connected through a tool that facilitates openness in scholarship and art,but I also was new to the idea of the commons, and I was drawn to the summit partially through a deep curiosity. What – or who – made up the commons? How did they work? And how could I make my way into the heart of the open movement?
 
