@@ -64,7 +64,7 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 * Tell your story… why are you here?
 * Stuck? Start at the beginning.  “I was born in…”
 
-*adapted from OpenCon 2016 "Story of Self" session
+*adapted from OpenCon 2016 "Story of Self" session*
 
 </section>
 
@@ -72,7 +72,7 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 
 ### So, now what?
 
-</Section>
+</section>
 
 <section data-markdown> 
 
