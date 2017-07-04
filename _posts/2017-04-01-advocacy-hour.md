@@ -2,8 +2,8 @@
 layout: slide
 title: Advocacy Hour
 excerpt: "Advocacy training from OpenCon 2017: NC Student Leaders"
-theme: simple
-transition: convex
+theme: night
+transition: none
 tags: [presentation]
 category: presentation
 ---
@@ -84,3 +84,37 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 
 </section>  
 
+<section data-markdown>
+
+# Advocacy Principles
+
+</section>
+
+<section data-markdown>
+
+### Preparation
+
+1. Who do I need to meet?
+2. What is my goal for this meeting?
+3. What do they already know?
+4. How can I connect with them?
+
+**What do I need to bring to the meeting?**
+
+</section>
+
+<section data-markdown>
+
+### Follow Up: The Ask
+
+* If they're new to open, *ask* to form a relationship.
+* If they are experienced with open, *ask* for something specific.
+* If they are already supporters of open, *thank them* and go from there. 
+
+</section>
+
+<section data-markdown>
+
+# Your turn!
+
+</section>
