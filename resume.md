@@ -20,18 +20,17 @@ Hon.B.A., English
 
 `2016` OpenCon 2016 Scholarship Recipient, *Scholarly Publishing and Academic Resources Coalition*
 
-`2016`
-Outstanding Student Contribution Award, *Faculty of Information Alumni Association*
+`2016` Outstanding Student Contribution Award, *Faculty of Information Alumni Association*
 
 `2016`
  Staff Team Appreciation and Recognition Award, Ongoing Excellence (TSpace Team), *University of Toronto Libraries*
 
 ## Publications
 ### Journals
-`in press` “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services*
+`2017` “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [10.1080/15367967.2017.1333911](http://dx.doi.org/10.1080/15367967.2017.1333911)
 
 
-`in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L.. *Journal of Scholarly Publishing* 
+`in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L. *Journal of Scholarly Publishing* 
 
 ### Books
 `forthcoming, 2018` “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press
@@ -71,8 +70,7 @@ Outstanding Student Contribution Award, *Faculty of Information Alumni Associati
 `2017` **[What Can I Do with That Code?: Understanding Open Source Licenses in the Wild](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/what-can-i-do-with-that-code-understanding-open-source-licenses&sa=D&ust=1498506478080000&usg=AFQjCNHxFXCPDfNY4WtQ4XZJNbM3CYmf3w)[ ](https://www.google.com/url?q=https://www.slideshare.net/LillianRigling/what-can-i-do-with-that-code-understanding-open-source-licenses&sa=D&ust=1498506478081000&usg=AFQjCNFwtwq-c8SY_4jUk8zQkLtho9Lffw)** Rigling, L., Khan, N., & Cross, W. *OpenSource101 (All Things Open)*
 
 
-`2016` **[Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education](https://www.google.com/url?q=http://www.slideshare.net/RightToResearch/data-relationships-using-institutional-knowledge-and-student-voices-to-advocate-for-open-education-lillian-rigling-opencon-2016&sa=D&ust=1498506478084000&usg=AFQjCNEmGmbauz-bjgy-NLWOTlyTc-OstA)**   
-(lightning talk) Rigling, L. *OpenCon*
+`2016` **[Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education](https://www.google.com/url?q=http://www.slideshare.net/RightToResearch/data-relationships-using-institutional-knowledge-and-student-voices-to-advocate-for-open-education-lillian-rigling-opencon-2016&sa=D&ust=1498506478084000&usg=AFQjCNEmGmbauz-bjgy-NLWOTlyTc-OstA)**(lightning talk) Rigling, L. *OpenCon 2016*
 
 
 `2016` **[Library Usage as a Map for Targeting OER Advocacy & Growth](https://www.google.com/url?q=http://www.slideshare.net/GregRaschke/library-usage-as-a-map-for-targeting-open-educational-resource-advocacy&sa=D&ust=1498506478086000&usg=AFQjCNEilQH8TCViejzMDJSfqFKrR2QoPg)** Raschke, G., Cross, W., Thompson, S., Vickery, J., & Rigling, L., *The 13th Annual Open Education Conference*
@@ -97,7 +95,7 @@ __Institutional Repositories Graduate Student Library Assistant__, Information T
 
 
 `2014-2016`
-__Special Project Graduate Student Library Assistant__. Scholarly Communications and Copyright Office, University of Toronto Libraries
+__Special Projects Graduate Student Library Assistant__. Scholarly Communications and Copyright Office, University of Toronto Libraries
 
 
 
