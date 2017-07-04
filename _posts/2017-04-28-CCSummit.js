@@ -1,3 +1,13 @@
+---
+layout: slide
+title: NextGen Open
+excerpt: Presented at the Creative Commons Global Summit, April 2017. 
+theme: simple
+transition: convex
+tags: [presentation]
+category: presentation
+---
+
 /**
  * The reveal.js markdown plugin. Handles parsing of
  * markdown inside of presentations as well as loading
