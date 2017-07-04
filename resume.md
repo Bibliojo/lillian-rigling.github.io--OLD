@@ -1,6 +1,8 @@
 ---
 layout: resume
 ---
+# Resume
+
 ## Currently
 Research and Instructional Services Librarian, Western Libraries, Western University
 
