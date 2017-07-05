@@ -2,7 +2,7 @@
 layout: post
 title: OpenCon: Rapid Boil, Slow Burn
 excerpt: "My experience at OpenCon 2016."
-modified: 7/5/2017, 15:53:24
+modified: 7/05/2017, 15:00:00
 tags: [OpenCon, open culture, conference, open science]
 comments: true
 category: blog
