@@ -22,6 +22,7 @@ Walking in on day one, though, the room was buzzing with energy, and it was easy
 We heard panels of experts mixed among early-career go-getters, we had intimate conversations, we tweeted at each other, striking projects up on the spot, and then clamoring through the crowd to try to say an in person hello to whoever's great idea we had just agreed to get on board with. We attended "unconference" sessions, proposed after day one of the conference, and voted and organized by day two. I even presented a rapid-fire, two-minute lightning talk (right under time).  
 
 ![Presenting at OpenCon](https://lillian-rigling.github.io/images/openconlillian.jpg)
+
 *Look! It's me! Look how much fun I'm having!*
 
 It was wonderful, and yet, things were swirling around me, and I was quickly and easily overwhelmed. By the end of Day 2, all I wanted was a quiet moment. And then we went to Capital Hill.
