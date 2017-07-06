@@ -33,3 +33,11 @@ It was wonderful, and yet, things were swirling around me, and I was quickly and
 Marching around from office to office, on a bleak day less than a week after the election hit me hard. This strange mix of inspiration and exhaustion, of feeling defeated while marching around in suits with so many of my heroes left me unsettled and blistered. I had never been happier to sit down for a quiet and intimate drink. I slipped out of the closing reception well before the after party started, slept for ages, and then sleep-walked to the train. I was so happy to have been a part of OpenCon, but I worried that I did not have the energy or stamina to be an open hero.
 
 **But *that* is the beauty of OpenCon** As I pulled into the train station in Raleigh, I wasn't sure what would come of my OpenCon experience. Yet my OpenCon experience did not end when I slipped out the door. Over the coming months, I repeatedly found myself in physical and virtual spaces with my fellow OpenCon alumni. I was working on those projects. In meetings, I was starting sentences with, "That reminds me of this thing at OpenCon..." I even planned an OpenCon satellite event, which brought the spirit of OpenCon to my campus. Every time I saw another OpenCon alumni at an event it was like coming home. These people are not just colleagues, they are life-long friends. OpenCon may have changed my life a little in November, but it continues to shape my experiences as a professional and a person every day.
+
+## TL;DR
+
+1. OpenCon itself is amazing.
+2. The benefits of OpenCon stretch beyond the three day meeting.
+3. If you care about "open" (science, data, source, education, access, culture), OpenCon may be just the place for you.
+
+[OpenCon 2017](https://opencon2017.org) is accepting applications through August 1, 2017. It will be held in Berlin, Germany this year, and they have so many scholarship opportunities if traveling to Berlin feels out of reach. Throw your hat in the ring, you won't regret it. 
