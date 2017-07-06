@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rapid Boil, Slow Burn - All About OpenCon
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+excerpt: "Reflections on the 2016 OpenCon in Washington, D.C."
+modified: 7/05/2017, 13:53:24
+tags: [opencon, open science, conference]
 comments: true
 category: blog
 ---
