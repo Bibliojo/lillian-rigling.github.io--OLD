@@ -51,9 +51,9 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 
 <section data-markdown>
 
-## Challenge. Choice. Outcome. 
+## Challenge. Choice. Outcome.
 
-</section> 
+</section>
 
 <section data-markdown>
 
@@ -68,19 +68,19 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 
 </section>
 
-<section data-markdown> 
+<section data-markdown>
 
 ### So, now what?
 
 </section>
 
-<section data-markdown> 
+<section data-markdown>
 
 ### So, now what?
 
-* Your story is is **iterative.** 
-* Story is **contextual.** 
-* Learning to connect with people is **imperative.** 
+* Your story is is **iterative.**
+* Story is **contextual.**
+* Learning to connect with people is **imperative.**
 
 </section>  
 
@@ -109,7 +109,7 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 
 * If they're new to open, *ask* to form a relationship.
 * If they are experienced with open, *ask* for something specific.
-* If they are already supporters of open, *thank them* and go from there. 
+* If they are already supporters of open, *thank them* and go from there.
 
 </section>
 
@@ -118,3 +118,14 @@ How did the outcome feel? Why did it feel that way? What did it teach you? What 
 # Your turn!
 
 </section>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87286945-2', 'auto');
+  ga('send', 'pageview');
+
+</script>

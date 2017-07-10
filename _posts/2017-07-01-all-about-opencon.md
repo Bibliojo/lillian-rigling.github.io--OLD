@@ -40,4 +40,16 @@ Marching around from office to office, on a bleak day less than a week after the
 2. The benefits of OpenCon stretch beyond the three day meeting.
 3. If you care about "open" (science, data, source, education, access, culture), OpenCon may be just the place for you.
 
-[OpenCon 2017](https://opencon2017.org) is accepting applications through August 1, 2017. It will be held in Berlin, Germany this year, and they have so many scholarship opportunities if traveling to Berlin feels out of reach. Throw your hat in the ring, you won't regret it. 
+[OpenCon 2017](https://opencon2017.org) is accepting applications through August 1, 2017. It will be held in Berlin, Germany this year, and they have so many scholarship opportunities if traveling to Berlin feels out of reach. Throw your hat in the ring, you won't regret it.
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87286945-2', 'auto');
+  ga('send', 'pageview');
+
+</script>

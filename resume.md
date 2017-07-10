@@ -32,13 +32,13 @@ Hon.B.A., English
 `2017` “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [10.1080/15367967.2017.1333911](http://dx.doi.org/10.1080/15367967.2017.1333911)
 
 
-`in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L. *Journal of Scholarly Publishing* 
+`in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L. *Journal of Scholarly Publishing*
 
 ### Books
 `forthcoming, 2018` “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press
 
 
- `forthcoming, 2018` “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries 
+ `forthcoming, 2018` “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries
 
 ## Presentations
 `2017` **Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice** (elective course) Cross, W., Waller, M., & Rigling, L. - *Force11 Scholarly Communications Institute*
@@ -100,6 +100,18 @@ __Institutional Repositories Graduate Student Library Assistant__, Information T
 __Special Projects Graduate Student Library Assistant__. Scholarly Communications and Copyright Office, University of Toronto Libraries
 
 
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87286945-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 <!-- ### Footer
 

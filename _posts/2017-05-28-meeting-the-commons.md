@@ -20,3 +20,15 @@ The Creative Commons Global Summit has set a gold standard for this balance. Fro
 *Ashe Dryden at the CC Global Summit, Photo by [Sebastian Ter Burg](https://www.flickr.com/photos/ter-burg/34189876982/in/album-72157681355091380/), CC BY*
 
 This commitment to inclusivity made Ashe Dryden’s keynote all the more powerful. She began with primer on time travel –light and accessible – then she dug a little deeper. As she spoke about the importance of bringing in new voices to open, about giving people an opportunity to express themselves and to shape this space, she not only empowered every person in attendance who did not feel they had a voice in the community to speak, but the also mandated those with a voice to take a breath, step back, and listen. Her talk enabled us all to be individuals, and allowed us to feel like *we are the commons*. I came to Creative Commons looking for an in, but the door was always open.
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87286945-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
