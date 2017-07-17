@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rapid Boil, Slow Burn - All About OpenCon
+title: Rapid Boil, Slow Burn&#58 All About OpenCon
 excerpt: "Reflections on the 2016 OpenCon in Washington, D.C."
 modified: 7/05/2017, 13:53:24
 tags: [opencon, open science, conference]
