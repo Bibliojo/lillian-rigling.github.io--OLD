@@ -8,4 +8,4 @@ comments: true
 category: presentation
 ---
 
-[Presented at the Creative Commons Global Summit 2017 in Toronto, ON, Canada](https://docs.google.com/presentation/d/19GFZXEo1ne5i_DmWQjW6QO111tLwD35LlOYmWaYoUGM/edit?usp=sharing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFBrWInhPalJNBUHdYHPEZJNsW6nVDC88Q1N5iGihsN5iRALsya8WP38Hw-3gasC9MLHj3FSlP82RY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
