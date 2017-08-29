@@ -49,7 +49,6 @@ Hon.B.A., English
 `2017`  **Applying Design Thinking and User Research to the Scholarly Communication Problem Space** (elective course) - Grguric, E., Rigling, L., & Cross, W. - *Force11 Scholarly Communications Institute*
 
 
-
  `2017` **Mapping the Copyright Constellation: Charting Campus Partners to Create Copyright Instruction Your Students Will Care About** - Cross, W., Keener, M. & Rigling, L. - *Kraemer Copyright Conference*
 
 
