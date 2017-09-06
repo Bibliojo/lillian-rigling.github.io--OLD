@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Lillian Rigling
   avatar: bio-photo.jpg
-  bio: Librarian with a passion for Scholarly Communications & User Experience
+  bio: Librarian with a love of Scholarly Communications & User Experience
   email: lrigling@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: lilyrglg
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: tYixcicAAAAJ
   facebook: #username
   instagram: lilyrglg
   bing-verify:
@@ -63,6 +63,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
+plugins:
+  - jekyll-seo-tag
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
