@@ -43,11 +43,12 @@ Hon.B.A., English
  `forthcoming, 2018` “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries
 
 ## Presentations
+`2017` **How Can We Tell a Different Story?** (panel) Versluis, A., Rigling, L. & Crissinger, S. - *4:AM Altmetrics Conference*
+
 `2017` **Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice** (elective course) Cross, W., Waller, M., & Rigling, L. - *Force11 Scholarly Communications Institute*
 
 
 `2017`  **Applying Design Thinking and User Research to the Scholarly Communication Problem Space** (elective course) - Grguric, E., Rigling, L., & Cross, W. - *Force11 Scholarly Communications Institute*
-
 
 
  `2017` **Mapping the Copyright Constellation: Charting Campus Partners to Create Copyright Instruction Your Students Will Care About** - Cross, W., Keener, M. & Rigling, L. - *Kraemer Copyright Conference*
