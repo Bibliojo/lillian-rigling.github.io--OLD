@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: post
 title: NextGen Open&#58 Planting Seeds to Cultivate Open Advocates, Scholars, and Creators
 excerpt: "Presented at the Creative Commons Global Summit 2017 in Toronto, ON, Canada"
 modified: 2017-04-28 10:00:38
