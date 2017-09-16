@@ -63,7 +63,7 @@
   margin-left: 2em;
 }
 .resume h1, h2, h3, h4 {
-  font-weight: 400;
+  font-weight: bold;
   }
 
 .resume h1 {
@@ -77,7 +77,7 @@
   color: $highlightcolor;
   position: relative;
   text-align: left;
-  margin-top: 1.7em;
+  margin-top: 0em;
 }
 // Fix issue with the first content area floating up above border on print
 div#resume.resume{
@@ -89,9 +89,9 @@ div#resume.resume{
   line-height: 2em;
   color: $lowlightcolor;
   position: relative;
-  top: 1.7em;
+  top: 0em;
   text-align: right;
-  width: 30%;
+  width: 0%;
 }
 .resume h4 {
   font-size: 18px;

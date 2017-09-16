@@ -29,10 +29,12 @@ Hon.B.A., English
 
 ## Publications
 ### Journals
-`2017` “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [10.1080/15367967.2017.1333911](http://dx.doi.org/10.1080/15367967.2017.1333911)
-
 
 `in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L. *Journal of Scholarly Publishing*
+
+`2017` "A multi-disciplinary perspective on emergent and future innovations in peer review" [version 1; referees: 2 approved with reservations]. Tennant JP, Dugan JM, Graziotin D *et al.* *F1000Research 2017,* 6:1151 [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)
+
+`2017` “Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches” - Thompson, S., Vickery, J., Rigling, L., & Cross, W. *Journal of Access Services* [10.1080/15367967.2017.1333911](http://dx.doi.org/10.1080/15367967.2017.1333911)
 
 ### Books
 `forthcoming, 2018` “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press
