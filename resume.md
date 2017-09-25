@@ -16,6 +16,8 @@ __University of Toronto Faculty of Arts & Science__
 Hon.B.A., English
 
 ## Grants, Scholarships, and Awards
+`2017` Exploring Emerging Mobile Technologies for Libraries’ Teaching, Outreach, and Communication, Grant *NCSU Libraries Good Idea Grant, co-author*
+
 `2017` Open Textbook Toolkit, Grant *Institute of Museum and Library Services (IMLS LG-72-17-0051-17), co-author*
 
 `2016` Second Runner Up, World Usability Day *Triangle User Experience Professionals Association*
