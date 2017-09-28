@@ -11,7 +11,7 @@ Research and Instructional Services Librarian, Western Libraries, Western Univer
 __University of Toronto Faculty of Information__
 M.I., Library and Information Science
 
-`2016`
+`2014`
 __University of Toronto Faculty of Arts & Science__
 Hon.B.A., English
 
