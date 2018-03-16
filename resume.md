@@ -16,6 +16,8 @@ __University of Toronto Faculty of Arts & Science__
 Hon.B.A., English
 
 ## Grants, Scholarships, and Awards
+`2018` Diversity, Equity, and Inclusion Scholarship, Open Textbook of Scholarly Communication Librarianship Unconference *SPARC/ACRL*
+
 `2017` Exploring Emerging Mobile Technologies for Libraries’ Teaching, Outreach, and Communication, Grant *NCSU Libraries Good Idea Grant, co-author*
 
 `2017` Open Textbook Toolkit, Grant *Institute of Museum and Library Services (IMLS LG-72-17-0051-17), co-author*
@@ -26,13 +28,16 @@ Hon.B.A., English
 
 `2016` Outstanding Student Contribution Award, *Faculty of Information Alumni Association*
 
-`2016`
- Staff Team Appreciation and Recognition Award, Ongoing Excellence (TSpace Team), *University of Toronto Libraries*
+`2016` Staff Team Appreciation and Recognition Award, Ongoing Excellence (TSpace Team), *University of Toronto Libraries*
 
 ## Publications
 ### Journals
 
-`in press` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L. *Journal of Scholarly Publishing*
+`in press` "Applying design thinking to create an equitable library open access policy" Rigling, L., Carlisle, E., & Waugh, C. *In the Library with the Lead Pipe* 
+
+`2017` "What Collaboration Means to Me: Passing the Mic." Versluis, A. & Rigling, L. *Collaborative Librarianship*
+
+`2017` "The Open Textbook Toolkit: Seeding Successful Partnerships for Collaboration between Academic Libraries and University Presses” - Waller, M., Cross, W., & Rigling, L. *Journal of Scholarly Publishing* (https://doi.org/10.3138/jsp.49.1.53)
 
 `2017` "A multi-disciplinary perspective on emergent and future innovations in peer review" [version 1; referees: 2 approved with reservations]. Tennant JP, Dugan JM, Graziotin D *et al.* *F1000Research 2017,* 6:1151 [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)
 
@@ -45,6 +50,10 @@ Hon.B.A., English
  `forthcoming, 2018` “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries
 
 ## Presentations
+`2018` **“This was actually fun!”: Engaging Users in Conversations about Digital Literacy** Rigling, L., Johnson, E., & Goldhawk, M., *Workshop for Instruction in Library Use (WILU) 2018*
+
+`2018` **Open By Default? Concept-Mapping Our Way to Open Access Consensus** (poster), Carlisle, E., Rigling, L., Waugh, C. & Paterson, J., *Ontario Library Association Superconference*
+
 `2017` **How Can We Tell a Different Story?** (panel) Versluis, A., Rigling, L. & Crissinger, S. - *4:AM Altmetrics Conference*
 
 `2017` **Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice** (elective course) Cross, W., Waller, M., & Rigling, L. - *Force11 Scholarly Communications Institute*
