@@ -47,7 +47,7 @@ Hon.B.A., English
 `forthcoming, 2018` “Getting to Know You: How We Turned Community Knowledge into Open Advocacy” (chapter) - Rigling, L. & Cross, W. in *OER: A Field Guide for Academic Librarians,* Pacific University Press
 
 
- `forthcoming, 2018` “Articulating the Value of Student Works: Case Studies from the NCSU Libraries” (chapter) - Waller, M., Fragola, M., Rigling, L., Evans-Groth, J., & Cross, W. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries
+ `forthcoming, 2018` “The Power of Open” (chapter) - Rigling, L. in *Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work,* Association of College and Research Libraries
 
 ## Presentations
 `2018` **“This was actually fun!”: Engaging Users in Conversations about Digital Literacy** Rigling, L., Johnson, E., & Goldhawk, M., *Workshop for Instruction in Library Use (WILU) 2018*
