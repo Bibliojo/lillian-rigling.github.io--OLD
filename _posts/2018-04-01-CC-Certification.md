@@ -38,5 +38,5 @@ An infographic about the history and purpose of the Creative Commons. <a href="h
  
  
 ### Economics of Scholarly Information
-An infographic about the flow money in the scholarly publishing industry. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">Download PDF</a>.</p>
+An infographic about the flow money in the scholarly publishing industry. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">Download PDF</a>
 
