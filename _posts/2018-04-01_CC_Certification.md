@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Participating in the Creative Commons Certification Course
-excerpt: "I came to Creative Commons looking for an in, but the door was always open."
+excerpt: "My final thoughts on the Creative Commons Certification Course"
 modified: 4/01/208, 9:00:24
 tags: [Creative Commons]
 comments: true
