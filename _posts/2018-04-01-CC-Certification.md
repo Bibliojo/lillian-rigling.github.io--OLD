@@ -36,6 +36,8 @@ Each license exists for a purpose. More restrictive licenses are not simply gate
         This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
 ### Economics of Scholarly Information
 <object data="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">
