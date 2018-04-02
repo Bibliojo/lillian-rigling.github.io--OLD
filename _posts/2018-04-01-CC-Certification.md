@@ -17,6 +17,8 @@ However, as I learned about the history and origins of Creative Commons, I began
 Each license exists for a purpose. More restrictive licenses are not simply gateway licenses to the Commons, they are the Commons. Opening my mind to the idea that there is not ideal open license choice for all works has fundamentally changed my perspective on Creative Commons. Though I had experienced the joy of participating in the commons through my local community and the global summit, I now know that there are many more reasons people choose to participate in the commons, and in a culture of sharing openly, and I am better equipped to help people leverage the full power of the Creative Commons Licenses and the Creative Commons Community. 
 
 ## Projects:
+Below are some of the projects I completed for this course, openly licensed for reuse. 
+
 ### Final Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ABq1jJ7cGq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -34,9 +36,7 @@ Each license exists for a purpose. More restrictive licenses are not simply gate
 
 An infographic about the history and purpose of the Creative Commons. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf">Download PDF</a>
  
-
-
+ 
 ### Economics of Scholarly Information
 An infographic about the flow money in the scholarly publishing industry. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
