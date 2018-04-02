@@ -2,7 +2,7 @@
 layout: post
 title: Participating in the Creative Commons Certification Course
 excerpt: "My final thoughts on the Creative Commons Certification Course"
-modified: 4/01/208, 9:00:24
+modified: 01/04/2018, 9:00:24
 tags: [Creative Commons]
 comments: true
 category: blog
@@ -16,5 +16,22 @@ However, as I learned about the history and origins of Creative Commons, I began
 
 Each license exists for a purpose. More restrictive licenses are not simply gateway licenses to the Commons, they are the Commons. Opening my mind to the idea that there is not ideal open license choice for all works has fundamentally changed my perspective on Creative Commons. Though I had experienced the joy of participating in the commons through my local community and the global summit, I now know that there are many more reasons people choose to participate in the commons, and in a culture of sharing openly, and I am better equipped to help people leverage the full power of the Creative Commons Licenses and the Creative Commons Community. 
 
-
+## Projects:
+### Final Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ABq1jJ7cGq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Copyright Unit
+*[Full slides and notes available here](https://docs.google.com/presentation/d/1duCijmqCGgBIMGCcJCPiq1X6mw9m4pFycWdtO7Dlr8Q/edit?usp=sharing)* 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuP26KNfJBqvwVrofsGTsWFGDaVwfXZpuhiFqPibxm345E8v1bSCSup7aaSew9poHfRcpj9zqlDh-v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Creative Commons Licenses
+*[Full slides and notes available here](https://docs.google.com/presentation/d/1sIwQB9gLJL5MP3wMHTDkavgO7PyOYgNwEd25WCRpsmc/edit#slide=id.p)*
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJV2EFP6IqhLwhKBAa87jyTYqC1w98FVpLK_s8Jx3cX7vrkmRd52bDtkfb-fq7KMJr-5TPKi_JTo2v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### History of Creative Commons
+![Infographic about the history of Creative Commons](https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf)
+
+### Economics of Scholarly Information
+![Infographic about the flow of money for the scholarly publishing industry](https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf)
