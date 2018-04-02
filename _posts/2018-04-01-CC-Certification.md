@@ -23,15 +23,22 @@ Each license exists for a purpose. More restrictive licenses are not simply gate
 ### Copyright Unit
 *[Full slides and notes available here](https://docs.google.com/presentation/d/1duCijmqCGgBIMGCcJCPiq1X6mw9m4pFycWdtO7Dlr8Q/edit?usp=sharing)* 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuP26KNfJBqvwVrofsGTsWFGDaVwfXZpuhiFqPibxm345E8v1bSCSup7aaSew9poHfRcpj9zqlDh-v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuP26KNfJBqvwVrofsGTsWFGDaVwfXZpuhiFqPibxm345E8v1bSCSup7aaSew9poHfRcpj9zqlDh-v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Creative Commons Licenses
 *[Full slides and notes available here](https://docs.google.com/presentation/d/1sIwQB9gLJL5MP3wMHTDkavgO7PyOYgNwEd25WCRpsmc/edit#slide=id.p)*
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJV2EFP6IqhLwhKBAa87jyTYqC1w98FVpLK_s8Jx3cX7vrkmRd52bDtkfb-fq7KMJr-5TPKi_JTo2v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJV2EFP6IqhLwhKBAa87jyTYqC1w98FVpLK_s8Jx3cX7vrkmRd52bDtkfb-fq7KMJr-5TPKi_JTo2v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### History of Creative Commons
-![Infographic about the history of Creative Commons](https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf)
-
+<object data="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 ### Economics of Scholarly Information
-![Infographic about the flow of money for the scholarly publishing industry](https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf)
+<object data="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
