@@ -4,7 +4,7 @@ layout: resume
 # Resume
 
 ## Currently
-Research and Instructional Services Librarian, Western Libraries, Western University
+Research and Scholarly Communications Librarian, Western Libraries, Western University
 
 ## Education
 `2016`
