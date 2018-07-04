@@ -3,14 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I'm Lillian Rigling. I'm a librarian who is passionate about advancing open research practices at universities. I spend my day-to-day doing outreach for students, faculty, and staff, discussing how open ethos can enhance research practices, and how it affects scholarship at every level. I also try to incorporate scholarly communications concepts into library instruction for students of every level, and make these concepts tangible and accessible.
+I'm Lillian Rigling. I'm a former librarian who is passionate about advancing open research and educational practices at universities. Currently I am the Program Coordinator at eCampus Ontario, a non-profit dedicating to advancing e-Learning and Open in the province of Ontario.
 
 ## Current Interests and Projects:
-
-- Using design thinking and user research for service and space design.
-- Open scholarship advocacy at the student level
-- Early-career scholarship and academic activity
+- Open scholarship advocacy at the student level.
 - Open pedagogy and open educational practice.
+- Accessibility, big data, and technical equity issues in higher education.
 
 
 <script>
