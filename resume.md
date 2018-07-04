@@ -4,7 +4,7 @@ layout: resume
 # Resume
 
 ## Currently
-Research and Scholarly Communications Librarian, Western Libraries, Western University
+Program Coordinator, eCampus Ontario
 
 ## Education
 `2016`
@@ -95,9 +95,11 @@ Hon.B.A., English
 `2016` **[Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual Pornography](https://www.google.com/url?q=http://ipp.oii.ox.ac.uk/2016/programme-2016/track-b-governance/user-behaviour-ii/lillian-rigling-amelia-clarkson-behind&sa=D&ust=1498506478088000&usg=AFQjCNG-JPyb-lc-MlPKmQsc8j9PYI896Q)**  Rigling, L., & Clarkson, A. *Oxford Internet Institute's Internet, Policy, & Politics Conference*, September 2016
 
 ## Occupation
-`Current`
-__Research and Instructional Services Librarian__, Western University Libraries
+`2018 - present` 
+__Program Coordinator__, eCampus Ontario
 
+`2017-2018`
+__Research and Scholarly Communications Librarian__, Western University Libraries
 
 `2016 - 2017`
 __NCSU Libraries Fellow__, North Carolina State University Libraries
