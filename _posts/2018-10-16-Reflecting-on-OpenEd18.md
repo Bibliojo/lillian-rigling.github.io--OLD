@@ -2,7 +2,7 @@
 layout: post
 title: Putting our Values into Practice: Reflections on OpenEd18
 excerpt: "When we accept that the “open movement” is inherently good, we run the risk of operating as if the individuals who comprise this movement are above more than surface-level critique. But this is a movement still steered largely by the woke and privileged"
-modified: 16/10/2018, 9:00:24
+modified: 16/10/2018, 11:30:24
 tags: [OER, Open Education, Equity, Privilege]
 comments: true
 category: blog
